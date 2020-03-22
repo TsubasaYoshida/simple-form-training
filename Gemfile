@@ -29,3 +29,4 @@ group :development do
 end
 
 gem 'hamlit-rails'
+gem 'simple_form'
